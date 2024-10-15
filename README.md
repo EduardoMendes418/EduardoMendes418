@@ -6,7 +6,7 @@ Sobre mim
 
 ❤️ Tecnologias Reactjs e Nextjs 🎨 Sistemas de Design
 
-![Contato](https://img.shields.io/badge/WhatsApp-19994833381?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Contato](https://img.shields.io/badge/WhatsApp-(19)99483-3381?style=for-the-badge&logo=whatsapp&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mendes-967375101/)
 
 ![Eduardo Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMendes418&show_icons=true&theme=dark) 
