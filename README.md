@@ -2,7 +2,7 @@
 
 Sobre mim
 
-💼 Engenheiro Front-End Sênior
+💼 Sr Front-End Developer
 
 ❤️ Tecnologias React.js e Next.js 🎨 Sistemas de Design
 
