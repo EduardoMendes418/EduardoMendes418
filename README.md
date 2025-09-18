@@ -4,11 +4,11 @@ Sobre mim
 
 💼 Sr Front-End Developer
 
-❤️ Tecnologias React.js e Next.js 🎨 Sistemas de Design
+❤️ Tecnologias React.js, Next.js e React Native  🎨 Sistemas de Design
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mendes-967375101/)
 
-![Eduardo Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoMendes418&show_icons=true&theme=dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=eduardowgmendes&theme=darkhub)
 
 
 ## Tecnologias que uso no meu dia
