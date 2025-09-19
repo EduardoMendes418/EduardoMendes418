@@ -8,8 +8,6 @@ Sobre mim
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mendes-967375101/)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=eduardowgmendes&theme=darkhub)
-
 
 ## Tecnologias que uso no meu dia
 
