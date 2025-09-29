@@ -2,9 +2,9 @@
 
 Sobre mim
 
-💼 Sr Front-End Developer
+💼 Senior Front End Engineer
 
-❤️ Tecnologias React.js, Next.js e React Native  🎨 Sistemas de Design
+❤️ Tecnologias Angular | React | React Native | Typescript | UX/UI
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mendes-967375101/)
 
