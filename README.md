@@ -2,7 +2,7 @@
 
 Sobre mim
 
-💼 Senior Front End Engineer
+💼 Senior Front End Developer
 
 ❤️ Tecnologias Angular | React | React Native | Typescript | UX/UI
 
