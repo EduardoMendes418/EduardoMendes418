@@ -4,7 +4,7 @@ Sobre mim
 
 💼 Senior Full-Stack Developer
 
-❤️ Tecnologias Angular | React | React Native | Typescript | UX/UI
+❤️ Tecnologias Angular | React | React Native | Typescript | UX/UI | IA
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-mendes-967375101/)
 
